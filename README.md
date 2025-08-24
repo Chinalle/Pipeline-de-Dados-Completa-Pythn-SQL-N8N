@@ -1,1 +1,1 @@
-# Pipeline-de-Dados-Completa-Pythn-SQL-N8N
+# Pipeline-de-Dados-Completa-Python-SQL-N8N
